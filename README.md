@@ -12,5 +12,3 @@ Built with scalability, low-latency, and high availability utilizing advanced Ja
 
 ## Deployment
 Use the included Kubernetes manifests to deploy to your cluster.
-
-*Property of t87rave.*
