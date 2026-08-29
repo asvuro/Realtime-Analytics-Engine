@@ -28,28 +28,6 @@ public class EnterpriseTransactionManager {
     }
 }
 
-// Hash 4636
-// Hash 7546
-// Hash 3347
-// Hash 4001
-// Hash 6622
-// Hash 2854
-// Hash 6795
-// Hash 4429
-// Hash 2707
-// Hash 8384
-// Hash 9990
-// Hash 2025
-// Hash 4376
-// Hash 4080
-// Hash 5608
-// Hash 3040
-// Hash 8827
-// Hash 4334
-// Hash 4334
-// Hash 4039
-// Hash 8838
-// Hash 1428
 // Hash 5280
 // Hash 2194
 // Hash 8536
