@@ -4,7 +4,6 @@
 
 ![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Architecture](https://img.shields.io/badge/Architecture-Microservices-orange)
 
 ## Overview
 Sub-second stream processing engine for massive big data telemetry pipelines. 
